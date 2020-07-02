@@ -1,2 +1,1 @@
-# pubs
-Publications
+# Publications
